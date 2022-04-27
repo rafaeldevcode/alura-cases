@@ -12,11 +12,10 @@
 - Next JS
 
 <div align="center" style="display: inline-block;">
-    <img align="center" alt="rafaeldevcode-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="center" alt="rafaeldevcode-DOCTRINE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/doctrine/doctrine-original.svg">
     <img align="center" alt="rafaeldevcode-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="rafaeldevcode-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="rafaeldevcode-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="rafaeldevcode-NEXTJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
 </div>
 
 ##
